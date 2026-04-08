@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Citation Fence Company",
+    "phone": "+17183263800",
+    "category": "fence company",
+    "city": "New York",
+    "state": "NY"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "NYC's Fence Authority",
+      "heroSubline": "Durable, reliable fencing solutions built for the city that never sleeps. Expert installation and repair services.",
+      "aboutTitle": "Built on Integrity, Forged in Steel",
+      "aboutText": [
+        "Citation Fence Company started with a simple goal: to provide New York City with fencing solutions that are as tough and resilient as the city itself. We're a family-owned and operated business, deeply rooted in the five boroughs and committed to serving our neighbors.",
+        "Our approach is straightforward: we listen to your needs, assess the specific challenges of your property, and deliver a fence that meets your requirements and exceeds your expectations. We use only premium materials and proven techniques to ensure lasting quality and security.",
+        "We believe in giving back to the community that has supported us for over a decade. We actively participate in local initiatives and strive to be a responsible and ethical business partner for all of our clients."
+      ],
+      "valueProps": [
+        {
+          "title": "Unwavering Quality",
+          "description": "We source the highest-grade materials to withstand the harsh New York climate and constant wear and tear."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled team ensures precise and secure installation, guaranteeing the longevity and performance of your fence."
+        },
+        {
+          "title": "Custom Solutions",
+          "description": "We tailor every project to your unique needs and aesthetic preferences, offering a wide range of styles and materials."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "From initial consultation to final inspection, we provide clear communication and dependable support."
+        }
+      ],
+      "ctaHeadline": "Secure Your Property Today",
+      "ctaSubline": "Get a free, no-obligation quote and experience the Citation Fence Company difference."
+    },
+    "services": [
+      {
+        "slug": "chain-link-fencing",
+        "name": "Chain Link Fencing",
+        "shortDescription": "Affordable and durable security solutions for any property.",
+        "description": "Chain link fencing remains a practical and cost-effective choice for securing properties throughout New York City. Ideal for residential, commercial, and industrial applications, it offers a robust barrier against intrusion and defines property lines with clarity. We use galvanized steel to combat the city's harsh weather conditions, ensuring longevity and resistance to rust and corrosion.\n\nOur chain link fence installations are meticulously planned and executed, accounting for the unique challenges of urban environments. We handle everything from initial site surveys and permitting to precise post setting and fabric tensioning. We offer a variety of heights, gauges, and mesh sizes to meet specific security needs.\n\nBeyond basic security, we provide options like vinyl coating for enhanced aesthetics and privacy slats for increased screening. Whether you need a simple boundary fence or a high-security perimeter, Citation Fence Company delivers chain link solutions that are built to last and perform reliably.",
+        "process": [
+          "Step 1: Site assessment and consultation to determine your specific needs and property layout.",
+          "Step 2: Material selection and customization to match your aesthetic preferences and security requirements.",
+          "Step 3: Professional installation with precise measurements and secure anchoring.",
+          "Step 4: Final inspection and client approval to ensure complete satisfaction."
+        ],
+        "benefits": [
+          "Cost-effective security solution",
+          "Durable and long-lasting in harsh conditions",
+          "Versatile for various applications",
+          "Low maintenance requirements"
+        ],
+        "faq": [
+          {
+            "question": "How long does chain link fencing last in NYC?",
+            "answer": "With proper galvanization and occasional maintenance, a chain link fence can easily last 20-30 years in New York City."
+          },
+          {
+            "question": "Can I add privacy to a chain link fence?",
+            "answer": "Yes, we offer a variety of privacy slats that can be easily installed to enhance screening and reduce visibility through the fence."
+          },
+          {
+            "question": "Do I need a permit for chain link fencing in NYC?",
+            "answer": "Permit requirements vary depending on the height and location of the fence. We can assist you with the permitting process to ensure compliance with local regulations."
+          }
+        ]
+      },
+      {
+        "slug": "wood-fencing",
+        "name": "Wood Fencing",
+        "shortDescription": "Classic style and natural beauty for residential properties.",
+        "description": "Wood fencing offers a timeless appeal and natural warmth that complements the diverse architectural styles found throughout New York City’s neighborhoods. From classic picket fences in Brooklyn brownstone districts to privacy fences in Queens suburban areas, wood provides both aesthetic charm and functional security.\n\nWe use pressure-treated lumber to withstand the city's fluctuating temperatures and humidity levels, preventing rot and decay. Our experienced carpenters craft each fence with precision and attention to detail, ensuring a structurally sound and visually appealing result.\n\nChoose from a variety of wood types, styles, and finishes to create a fence that reflects your personal taste and enhances your property's curb appeal. We offer traditional picket fences, solid board privacy fences, and custom designs tailored to your specific needs. We also handle staining and sealing to protect your investment and prolong the life of your wood fence.",
+        "process": [
+          "Step 1: Design consultation to choose the wood type, style, and finish that best suits your property.",
+          "Step 2: Professional installation with precise post setting and secure panel attachment.",
+          "Step 3: Staining and sealing to protect the wood from the elements and enhance its natural beauty.",
+          "Step 4: Final inspection and client approval to ensure complete satisfaction."
+        ],
+        "benefits": [
+          "Classic aesthetic appeal",
+          "Natural privacy and noise reduction",
+          "Customizable designs to match your style",
+          "Environmentally friendly material option"
+        ],
+        "faq": [
+          {
+            "question": "How often does a wood fence need to be stained or sealed?",
+            "answer": "In New York City's climate, we recommend staining or sealing your wood fence every 2-3 years to protect it from moisture and UV damage."
+          },
+          {
+            "question": "What type of wood is best for fencing in NYC?",
+            "answer": "Pressure-treated pine is a popular and cost-effective choice for wood fencing in NYC due to its resistance to rot and insects. Cedar is another excellent option known for its natural durability and beauty."
+          },
+          {
+            "question": "How long will a wood fence last?",
+            "answer": "With proper maintenance, a well-constructed wood fence can last 15-20 years or more."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fencing",
+        "name": "Vinyl Fencing",
+        "shortDescription": "Low-maintenance and stylish fencing for modern homes.",
+        "description": "Vinyl fencing offers a clean, modern look and exceptional durability, making it an ideal choice for homeowners in New York City who value both aesthetics and low maintenance. Resistant to rot, decay, and insect damage, vinyl fences require minimal upkeep and maintain their pristine appearance for years to come.\n\nWe offer a wide range of vinyl fence styles, including privacy fences, picket fences, and decorative accent fences, to complement any architectural design. Our vinyl fences are manufactured using high-quality materials and advanced extrusion technology, ensuring strength, stability, and resistance to fading and cracking.\n\nInstallation is quick and efficient, minimizing disruption to your property. We handle all aspects of the project, from site preparation to final inspection, ensuring a seamless and hassle-free experience. Enjoy the beauty and convenience of vinyl fencing with Citation Fence Company.",
+        "process": [
+          "Step 1: Selection of vinyl fence style and color to match your home's aesthetic.",
+          "Step 2: Precise site measurement and layout to ensure accurate installation.",
+          "Step 3: Professional installation with secure post setting and panel assembly.",
+          "Step 4: Final inspection and client approval to ensure complete satisfaction."
+        ],
+        "benefits": [
+          "Low maintenance and easy to clean",
+          "Durable and weather-resistant",
+          "Variety of styles and colors available",
+          "Long-lasting and cost-effective"
+        ],
+        "faq": [
+          {
+            "question": "How do I clean a vinyl fence?",
+            "answer": "Vinyl fences can be easily cleaned with soap and water or a mild detergent. For stubborn stains, use a vinyl fence cleaner."
+          },
+          {
+            "question": "Will a vinyl fence fade in the sun?",
+            "answer": "Our vinyl fences are manufactured with UV inhibitors to prevent fading and discoloration. They will maintain their color and appearance for many years."
+          },
+          {
+            "question": "Is vinyl fencing environmentally friendly?",
+            "answer": "Vinyl fencing is recyclable and can be made from recycled materials, making it an environmentally responsible choice."
+          }
+        ]
+      },
+      {
+        "slug": "aluminum-fencing",
+        "name": "Aluminum Fencing",
+        "shortDescription": "Elegant and rust-proof fencing for pools and property lines.",
+        "description": "Aluminum fencing combines classic elegance with exceptional durability, making it a popular choice for pool enclosures, property perimeters, and decorative accents throughout New York City. Unlike iron, aluminum is naturally rust-proof, ensuring a long-lasting and low-maintenance fencing solution.\n\nWe offer a wide range of aluminum fence styles, from traditional ornamental designs to sleek, modern styles, to complement any architectural aesthetic. Our aluminum fences are powder-coated for added protection and a smooth, durable finish.\n\nAluminum fencing is lightweight and easy to install, minimizing disruption to your property. We handle all aspects of the project, from design and permitting to installation and final inspection, ensuring a seamless and hassle-free experience. Enhance the beauty and security of your property with aluminum fencing from Citation Fence Company.",
+        "process": [
+          "Step 1: Design consultation to select the aluminum fence style and color that best suits your property.",
+          "Step 2: Precise site measurement and layout to ensure accurate installation.",
+          "Step 3: Professional installation with secure post setting and panel assembly.",
+          "Step 4: Final inspection and client approval to ensure complete satisfaction."
+        ],
+        "benefits": [
+          "Rust-proof and corrosion-resistant",
+          "Elegant and sophisticated appearance",
+          "Low maintenance and easy to clean",
+          "Lightweight and easy to install"
+        ],
+        "faq": [
+          {
+            "question": "Is aluminum fencing suitable for pool enclosures?",
+            "answer": "Yes, aluminum fencing is an excellent choice for pool enclosures because it is rust-proof and meets most pool safety codes."
+          },
+          {
+            "question": "Can I customize the color of my aluminum fence?",
+            "answer": "Yes, we offer a wide range of powder-coated colors to match your home's exterior."
+          },
+          {
+            "question": "How strong is aluminum fencing?",
+            "answer": "Aluminum fencing is surprisingly strong and durable, providing excellent security and protection for your property."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair & Maintenance",
+        "shortDescription": "Extending the life of your fence with expert repairs.",
+        "description": "Even the most durable fences can succumb to the wear and tear of New York City's harsh weather conditions and occasional accidents. Citation Fence Company offers comprehensive fence repair and maintenance services to ensure the longevity and performance of your investment.\n\nOur experienced technicians are skilled in repairing all types of fences, including wood, chain link, vinyl, and aluminum. We handle everything from minor repairs, such as replacing broken boards or tightening loose posts, to major repairs, such as rebuilding sections damaged by storms or accidents.\n\nWe also provide preventative maintenance services, such as staining and sealing wood fences, to protect them from the elements and prolong their lifespan. Regular maintenance can help prevent costly repairs down the road. Trust Citation Fence Company to keep your fence in top condition.",
+        "process": [
+          "Step 1: Thorough inspection to assess the extent of the damage and identify the root cause.",
+          "Step 2: Detailed repair plan and cost estimate.",
+          "Step 3: Professional repairs using high-quality materials and proven techniques.",
+          "Step 4: Final inspection to ensure the repairs are completed to your satisfaction."
+        ],
+        "benefits": [
+          "Extends the life of your fence",
+          "Prevents costly replacements",
+          "Enhances the security of your property",
+          "Maintains the aesthetic appeal of your fence"
+        ],
+        "faq": [
+          {
+            "question": "How often should I inspect my fence for damage?",
+            "answer": "We recommend inspecting your fence at least twice a year, especially after severe weather events."
+          },
+          {
+            "question": "Can you repair a leaning fence?",
+            "answer": "Yes, we can repair leaning fences by resetting the posts and reinforcing the foundation."
+          },
+          {
+            "question": "Do you offer emergency fence repair services?",
+            "answer": "Yes, we offer emergency fence repair services for situations that pose a security risk or safety hazard."
+          }
+        ]
+      },
+      {
+        "slug": "gate-installation-repair",
+        "name": "Gate Installation & Repair",
+        "shortDescription": "Secure and stylish gates for every property.",
+        "description": "A well-designed and properly functioning gate is essential for security, convenience, and curb appeal. Citation Fence Company specializes in gate installation and repair services for residential and commercial properties throughout New York City.\n\nWe offer a wide range of gate styles, including swing gates, sliding gates, and automatic gates, to meet your specific needs and preferences. Our gates are constructed using high-quality materials and are designed to withstand the rigors of daily use.\n\nWe also provide gate repair services, including hinge replacement, latch repair, and operator repair. Our experienced technicians can diagnose and resolve any gate issue quickly and efficiently. Ensure the security and functionality of your property with gate installation and repair services from Citation Fence Company.",
+        "process": [
+          "Step 1: Consultation to determine your gate needs and preferences.",
+          "Step 2: Design and material selection.",
+          "Step 3: Professional installation with precise alignment and secure hardware.",
+          "Step 4: Final inspection and testing to ensure smooth and reliable operation."
+        ],
+        "benefits": [
+          "Enhanced security and access control",
+          "Improved curb appeal",
+          "Convenient and reliable operation",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "Do you install automatic gates?",
+            "answer": "Yes, we install a wide range of automatic gate systems, including swing gate operators and sliding gate operators."
+          },
+          {
+            "question": "Can you repair my existing gate?",
+            "answer": "Yes, we can repair all types of gates, including wood, metal, and vinyl gates."
+          },
+          {
+            "question": "How much does it cost to install a gate?",
+            "answer": "The cost of gate installation varies depending on the style, size, and materials used. Contact us for a free estimate."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "New York",
+        "slug": "new-york-ny",
+        "state": "NY",
+        "content": "Citation Fence Company is proud to offer its comprehensive fence services to the residents and businesses of New York City. From the bustling streets of Manhattan to the vibrant neighborhoods of Brooklyn, Queens, the Bronx, and Staten Island, we are committed to providing top-quality fencing solutions tailored to the unique needs of each community.\n\nWe understand the diverse architectural styles and property requirements across the five boroughs. Whether you need a classic wrought iron fence for a brownstone in Brooklyn, a secure chain-link fence for a commercial property in Queens, or a decorative wooden fence for a backyard in Staten Island, our experienced team has the expertise to deliver exceptional results. Citation Fence Company uses only the highest quality materials and employs skilled craftsmen to ensure that your fence is not only aesthetically pleasing but also durable and long-lasting.",
+        "localContext": "New York City is a vibrant and densely populated metropolis known for its iconic landmarks, diverse neighborhoods, and thriving business community. Citation Fence Company is proud to serve the unique needs of this dynamic city.",
+        "nearbyAreas": [
+          "Jersey City, NJ",
+          "Hoboken, NJ",
+          "Newark, NJ"
+        ]
+      },
+      {
+        "city": "Yonkers",
+        "slug": "yonkers-ny",
+        "state": "NY",
+        "content": "Citation Fence Company is dedicated to providing top-notch fence installation and repair services to the residents and businesses of Yonkers, New York. As a neighboring city to New York City, Yonkers presents a unique blend of urban and suburban living, and we understand the specific fencing needs of this community.\n\nWhether you're looking to enhance the security of your property, add privacy to your backyard, or simply improve the aesthetic appeal of your home, Citation Fence Company offers a wide range of fencing options to suit your needs and budget. We are committed to delivering exceptional customer service and ensuring that your fencing project is completed to your satisfaction.",
+        "localContext": "Yonkers is a vibrant city in Westchester County, known for its diverse population, historic architecture, and proximity to New York City. Citation Fence Company is proud to serve the residents and businesses of this thriving community.",
+        "nearbyAreas": [
+          "Bronxville",
+          "Mount Vernon",
+          "Riverdale"
+        ]
+      },
+      {
+        "city": "Mount Vernon",
+        "slug": "mount-vernon-ny",
+        "state": "NY",
+        "content": "Citation Fence Company is proud to extend its professional fencing services to the city of Mount Vernon, New York. We understand the specific needs of homeowners and businesses in this community, offering a wide array of fence styles and materials to complement any property.\n\nFrom classic wood fences to durable vinyl options and secure chain-link installations, Citation Fence Company has the expertise to handle any fencing project. We are committed to providing exceptional customer service and ensuring that your new fence enhances the beauty, security, and value of your property.",
+        "localContext": "Mount Vernon is a vibrant and diverse city in Westchester County, known for its rich history and convenient location near New York City. Citation Fence Company is dedicated to serving the fencing needs of this thriving community.",
+        "nearbyAreas": [
+          "Yonkers",
+          "Bronx",
+          "New Rochelle"
+        ]
+      },
+      {
+        "city": "New Rochelle",
+        "slug": "new-rochelle-ny",
+        "state": "NY",
+        "content": "Citation Fence Company is pleased to offer its expert fence installation and repair services to the residents and businesses of New Rochelle, New York. We understand the unique character of this coastal city and are committed to providing fencing solutions that enhance its beauty and security.\n\nWhether you're looking to enclose your waterfront property, add privacy to your backyard oasis, or secure your commercial premises, Citation Fence Company has the experience and expertise to deliver exceptional results. We offer a wide range of fencing options, including wood, vinyl, aluminum, and chain-link, to suit your specific needs and preferences.",
+        "localContext": "New Rochelle is a beautiful coastal city in Westchester County, known for its stunning waterfront views, vibrant downtown area, and excellent schools. Citation Fence Company is dedicated to serving the fencing needs of this thriving community.",
+        "nearbyAreas": [
+          "Larchmont",
+          "Mamaroneck",
+          "Pelham"
+        ]
+      },
+      {
+        "city": "White Plains",
+        "slug": "white-plains-ny",
+        "state": "NY",
+        "content": "Citation Fence Company is proud to serve the residents and businesses of White Plains, New York, with top-quality fence installation and repair services. As the county seat of Westchester County, White Plains is a thriving commercial and residential hub, and we understand the specific fencing needs of this community.\n\nWhether you're looking to enhance the security of your property, add privacy to your backyard, or simply improve the aesthetic appeal of your home, Citation Fence Company offers a wide range of fencing options to suit your needs and budget. We are committed to delivering exceptional customer service and ensuring that your fencing project is completed to your satisfaction.",
+        "localContext": "White Plains is a bustling city in Westchester County, known for its vibrant downtown area, excellent schools, and convenient location. Citation Fence Company is proud to serve the residents and businesses of this thriving community.",
+        "nearbyAreas": [
+          "Scarsdale",
+          "Hartsdale",
+          "Rye Brook"
+        ]
+      },
+      {
+        "city": "Bronx",
+        "slug": "bronx-ny",
+        "state": "NY",
+        "content": "Citation Fence Company is dedicated to serving the diverse fencing needs of the Bronx, New York. From residential properties to commercial establishments, we offer a wide range of fencing solutions to enhance security, privacy, and aesthetic appeal.\n\nOur experienced team is equipped to handle any fencing project, big or small. We understand the unique challenges of working in an urban environment and are committed to providing efficient, reliable, and professional service to all our clients in the Bronx.",
+        "localContext": "The Bronx is a vibrant borough of New York City, known for its diverse culture, historic landmarks, and thriving communities. Citation Fence Company is proud to serve the residents and businesses of this dynamic borough.",
+        "nearbyAreas": [
+          "Yonkers",
+          "Manhattan",
+          "Mount Vernon"
+        ]
+      },
+      {
+        "city": "Brooklyn",
+        "slug": "brooklyn-ny",
+        "state": "NY",
+        "content": "Citation Fence Company provides expert fence installation and repair services throughout Brooklyn, New York. We understand the unique character of each neighborhood in Brooklyn and offer customized fencing solutions to match the architectural style and individual needs of our clients.\n\nWhether you need a classic wrought iron fence for a brownstone in Park Slope, a privacy fence for a backyard in Bay Ridge, or a security fence for a commercial property in Williamsburg, Citation Fence Company has the expertise to deliver exceptional results. We use only high-quality materials and employ skilled craftsmen to ensure that your fence is both beautiful and durable.",
+        "localContext": "Brooklyn is a diverse and dynamic borough of New York City, known for its vibrant arts scene, historic neighborhoods, and thriving business community. Citation Fence Company is proud to serve the residents and businesses of this exciting borough.",
+        "nearbyAreas": [
+          "Manhattan",
+          "Queens",
+          "Staten Island"
+        ]
+      },
+      {
+        "city": "Queens",
+        "slug": "queens-ny",
+        "state": "NY",
+        "content": "Citation Fence Company proudly serves the diverse communities of Queens, New York, offering a wide range of fencing solutions to meet your specific needs. We understand the unique character of each neighborhood in Queens and are committed to providing exceptional customer service.\n\nFrom residential properties to commercial establishments, we offer a variety of fence styles and materials, including wood, vinyl, aluminum, and chain-link. Whether you're looking to enhance security, add privacy, or simply improve the aesthetic appeal of your property, Citation Fence Company has the expertise to deliver outstanding results.",
+        "localContext": "Queens is the largest and most diverse borough of New York City, known for its vibrant culture, international cuisine, and thriving business community. Citation Fence Company is dedicated to serving the fencing needs of this dynamic borough.",
+        "nearbyAreas": [
+          "Brooklyn",
+          "Manhattan",
+          "Nassau County"
+        ]
+      },
+      {
+        "city": "Scarsdale",
+        "slug": "scarsdale-ny",
+        "state": "NY",
+        "content": "Citation Fence Company is pleased to offer its professional fence services to the residents and businesses of Scarsdale, New York. Known for its beautiful homes, lush landscapes, and discerning clientele, Scarsdale demands the highest quality in fencing solutions.\n\nWe provide a range of options, from elegant wood fences that complement the area's classic architecture to durable and low-maintenance vinyl fences. Citation Fence Company is committed to exceeding expectations with every project, ensuring both aesthetic appeal and long-lasting performance.",
+        "localContext": "Scarsdale is an affluent suburb of New York City, known for its top-rated schools, beautiful homes, and meticulously maintained properties. Citation Fence Company is proud to serve this distinguished community.",
+        "nearbyAreas": [
+          "White Plains",
+          "Eastchester",
+          "Mamaroneck"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "Citation Fence Company did an excellent job installing my new wood fence. The crew was professional, efficient, and the fence looks fantastic! They even cleaned up everything after they were done. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Chain Link Fence Repair",
+        "text": "Had a section of my chain link fence damaged by a fallen tree branch. Citation Fence Company came out quickly and repaired it perfectly. Good price and great service.",
+        "date": "2024-10-22"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Vinyl Fence Installation",
+        "text": "We absolutely love our new vinyl fence! It's exactly what we wanted, and the installation process was smooth and stress-free. The team was very helpful in helping us choose the right style for our home.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Aluminum Fence Installation",
+        "text": "Citation Fence Company installed an aluminum fence around my pool, and it looks amazing. The quality of the fence is top-notch, and the installation was done perfectly. Very happy with the results.",
+        "date": "2024-08-10"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Gate Repair",
+        "text": "My gate was sticking and difficult to open. Citation Fence Company came out and fixed it quickly and efficiently. The technician was knowledgeable and professional.",
+        "date": "2024-07-05"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Wood Fence Repair",
+        "text": "Great experience with Citation Fence Company. They repaired my old wood fence and made it look like new again. The price was fair, and the work was excellent.",
+        "date": "2024-06-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Citation Fence Company | NYC Fencing",
+        "description": "NYC's trusted fence company. Expert installation & repair of wood, vinyl, chain link, & aluminum fences. Free quotes!"
+      },
+      "about": {
+        "title": "About Citation Fence Company",
+        "description": "Learn about Citation Fence Company's commitment to quality fencing in NYC. Family-owned, experienced, and reliable."
+      },
+      "services": {
+        "title": "NYC Fence Services | Installation & Repair",
+        "description": "Wide range of fence services in NYC. Wood, vinyl, chain link, aluminum. Expert installation & repair. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact Citation Fence Company",
+        "description": "Contact Citation Fence Company for a free fence estimate in NYC. Call us today! +17183263800"
+      },
+      "reviews": {
+        "title": "Citation Fence Company Reviews",
+        "description": "Read reviews from satisfied Citation Fence Company customers in NYC. Quality fencing services and expert installation."
+      },
+      "service-areas": {
+        "title": "Citation Fence Company Service Areas",
+        "description": "Citation Fence Company serves NYC and surrounding areas. Expert fence installation and repair. Contact us for a free quote!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "chain-link-fencing": "/images/service-chain-link-fencing.webp",
+      "wood-fencing": "/images/service-wood-fencing.webp",
+      "vinyl-fencing": "/images/service-vinyl-fencing.webp",
+      "aluminum-fencing": "/images/service-aluminum-fencing.webp",
+      "fence-repair": "/images/service-fence-repair.webp",
+      "gate-installation-repair": "/images/service-gate-installation-repair.webp"
+    },
+    "servicesResponsive": {
+      "chain-link-fencing": {
+        "src": "/images/service-chain-link-fencing.webp",
+        "srcset": "/images/service-chain-link-fencing-400w.webp 400w, /images/service-chain-link-fencing-800w.webp 800w, /images/service-chain-link-fencing-1200w.webp 1200w, /images/service-chain-link-fencing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-fencing": {
+        "src": "/images/service-wood-fencing.webp",
+        "srcset": "/images/service-wood-fencing-400w.webp 400w, /images/service-wood-fencing-800w.webp 800w, /images/service-wood-fencing-1200w.webp 1200w, /images/service-wood-fencing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fencing": {
+        "src": "/images/service-vinyl-fencing.webp",
+        "srcset": "/images/service-vinyl-fencing-400w.webp 400w, /images/service-vinyl-fencing-800w.webp 800w, /images/service-vinyl-fencing-1200w.webp 1200w, /images/service-vinyl-fencing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "aluminum-fencing": {
+        "src": "/images/service-aluminum-fencing.webp",
+        "srcset": "/images/service-aluminum-fencing-400w.webp 400w, /images/service-aluminum-fencing-800w.webp 800w, /images/service-aluminum-fencing-1200w.webp 1200w, /images/service-aluminum-fencing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-installation-repair": {
+        "src": "/images/service-gate-installation-repair.webp",
+        "srcset": "/images/service-gate-installation-repair-400w.webp 400w, /images/service-gate-installation-repair-800w.webp 800w, /images/service-gate-installation-repair-1200w.webp 1200w, /images/service-gate-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
